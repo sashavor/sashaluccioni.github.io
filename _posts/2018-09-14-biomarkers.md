@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 current: post
 cover: assets/images/biotype/biotypes-title.png
