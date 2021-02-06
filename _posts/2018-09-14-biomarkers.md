@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/biotype/biotypes-title.png
+cover: /assets/images/biotype/biotypes-title.png
 navigation: True
 title: "Redefining Psychiatric Treatment Using Machine Learning"
 date: 2018-09-14 13:32:20 +0300
