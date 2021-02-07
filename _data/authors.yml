@@ -1,10 +1,10 @@
 josephdviviano:
   username: josephdviviano
   name: Joseph D Viviano
-  url_full: www.viviano.ca
-  url: viviano.ca
+  url_full: /
+  url: /
   bio: Click clack.
   picture: /assets/images/joseph-viviano-128.jpg
   facebook: josephdviviano
   twitter: josephdviviano
-  cover: False
+  cover: /assets/images/joseph-viviano-cover.png
