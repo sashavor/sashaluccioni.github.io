@@ -9,3 +9,8 @@ subclass: 'post page'
 ---
 
 I get excited about the intersection of science and real world problems.
+
+{:refdef: style="text-align: center;"}
+![Retinotopy]({{site.baseurl}}/assets/images/me.png)
+{: refdef}
+
