@@ -12,7 +12,7 @@ baseurl: ""
 # Website info
 title: Joseph D Viviano
 description: Scientist & Engineer
-cover: assets/images/blog-cover.jpg
+cover: assets/images/blog-cover-bw.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
