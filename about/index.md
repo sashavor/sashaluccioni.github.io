@@ -23,7 +23,9 @@ build bridges between disciplines. For me, science is only a piece of the
 puzzle, and I'm facinated by all of the steps required to bring a prototype
 into production. You can see the scope of my work on
 [Google Scholar](https://scholar.google.com/citations?user=Jd7wEJ8AAAAJ&hl=en)
-or [Linkedin](https://www.linkedin.com/in/josephdviviano/).
+or [Linkedin](https://www.linkedin.com/in/josephdviviano/),
+or check out my
+[resume](https://github.com/josephdviviano/resume/raw/master/jdv-resume.pdf).
 
 Long term, I'm most interested in use of AI to power new biomedical
 breakthroughs, and to discover new technologies to fight climate change. But I
