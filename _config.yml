@@ -12,8 +12,8 @@ baseurl: ""
 # Website info
 title: Joseph D Viviano
 description: AI Scientist & Engineer
-cover: assets/images/blog-cover-desat.jpg
-logo: assets/images/blog-icon.svg
+cover: assets/images/blog-cover-desat.jpg  # bw
+logo: assets/images/blog-icon.svg  # Segoe UI Normal 72 pt
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: www.viviano.ca
@@ -23,13 +23,14 @@ navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: josephdviviano  # Username
-facebook: josephdviviano  # Username
-scholar: Jd7wEJ8AAAAJ  # Google scholar ID.
-linkedin: josephdviviano
+
+facebook: josephdviviano
 github: josephdviviano
-soundcloud: jdvi
 instagram: josephdviviano
+linkedin: josephdviviano
+scholar: Jd7wEJ8AAAAJ  # Google scholar ID.
+soundcloud: jdvi
+twitter: josephdviviano
 
 # Disqus
 disqus: False
