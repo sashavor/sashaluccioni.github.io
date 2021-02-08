@@ -26,7 +26,7 @@ work throughout the site. You can check out my
 
 I'd love to connect if you're working on something new!
 
-{:refdef: style="text-align: center;"}
+<!--{:refdef: style="text-align: center;"}-->
 ![Self Portrait]({{site.baseurl}}/assets/images/joseph-viviano-about.png){: width="250" }
-{: refdef}
+<!--{: refdef}-->
 
