@@ -10,9 +10,9 @@ subclass: 'post page'
 I get excited about the intersection of science and real world problems.
 
 I'm a scientific nomad, having worked in basic neuroscience at
-[York University](http://www.yorku.ca/grturner/facilities.html),
-psychiatry at [CAMH](http://www.camh.ca/), radiology with
-[Imagia](https://imagia.com/),
+[York University](https://mri.info.yorku.ca/),
+psychiatry at [CAMH](https://www.camh.ca/en/science-and-research), radiology
+with [Imagia](https://imagia.com/),
 finance with the [CDPQ](https://www.cdpq.com/en),
 applied machine learning research with [Mila](https://mila.quebec/en/),
 and user engagement with
