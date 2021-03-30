@@ -11,9 +11,9 @@ baseurl: ""
 
 # Website info
 title: Joseph D Viviano
-description: AI Scientist & Engineer
-cover: assets/images/blog-cover-desat.jpg  # bw
-logo: assets/images/blog-icon.png  # Segoe UI Normal 72 pt
+description: ML Research Engineer
+cover: assets/images/blog-cover-bw.jpg
+logo: assets/images/blog-icon.png  # Segoe UI Normal 48 (72) pt
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: www.viviano.ca
