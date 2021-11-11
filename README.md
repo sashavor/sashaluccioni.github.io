@@ -1,6 +1,6 @@
 viviano.ca
 ----------
-[![Build Status](https://app.travis-ci.com/josephdviviano/josephdviviano.github.io.svg?branch=master)](https://app.travis-ci.com/github/josephdviviano/josephdviviano.github.io)
+[![Build and deploy to GitHub Pages](https://github.com/josephdviviano/josephdviviano.github.io/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/josephdviviano/josephdviviano.github.io/actions/workflows/jekyll_build.yml)
 [![Ruby](https://img.shields.io/badge/ruby-2.5.1-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.7.4-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
 
@@ -22,17 +22,10 @@ customization
 deployment
 ----------
 
-**Important:**  For security reasons, Github does not allow plugins
-(under `_plugins/`) when deploying with Github Pages. Therefore, the page is
-built the site with [travis-ci](https://travis-ci.org/) (with goodies from
-[jekyll-travis](https://github.com/mfenner/jekyll-travis)) automatically
-pushing the generated HTML files to a *gh-pages* branch. You will need to set
-up travis-ci for your personal fork. Briefly all you need then is to change
-your details in *[\_config.yml](_config.yml)* so that you can push
-to your github repo. You will also need to generate a secure key to add to your
-*[.travis.yml](.travis.yml)* (you can find more info on how to do it in that
-file). Also make sure you read the documentation from
-[jekyll-travis](https://github.com/mfenner/jekyll-travis).
+Build the site with [GitHub Actions](https://github.com/features/actions) which
+pushes  the resulting files (the contents of `_site/` or `../jasper2-pages/`)
+to the *gh-pages* branch. This is the approach that is currently used. See
+[jekyll_build.yml](.github/workflows/jekyll_build.yml) for more details.
 
 
 compiling styles
@@ -73,10 +66,9 @@ that help keeping the project alive and updated :smile:
 
 copyright & license
 -------------------
-
 Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).
 
-Copyright (C) 2015-2018 - Released under the MIT License.
+Copyright (C) 2015-2021 - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
