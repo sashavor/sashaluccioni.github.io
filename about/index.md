@@ -9,14 +9,15 @@ subclass: 'post page'
 ---
 I get excited about the intersection of science and real world problems.
 
-I'm a scientific nomad, having worked in basic neuroscience at
+I'm a multidisciplinary researcher, having worked in basic neuroscience at
 [York University](https://mri.info.yorku.ca/),
 psychiatry at [CAMH](https://www.camh.ca/en/science-and-research), radiology
 with [Imagia](https://imagia.com/),
 finance with the [CDPQ](https://www.cdpq.com/en),
-applied machine learning research with [Mila](https://mila.quebec/en/),
-and user engagement with
-[Google](https://techcrunch.com/2012/05/31/google-calls-its-smart-ad-relevance-system-smart-ass-yes-seriously/).
+applied machine learning research with [Mila](https://mila.quebec/en/), user
+engagement with
+[Google](https://techcrunch.com/2012/05/31/google-calls-its-smart-ad-relevance-system-smart-ass-yes-seriously/),
+and RNA biology with [Deep Genomics](https://www.deepgenomics.com/).
 
 As I learn more about science, find myself compelled to explore new fields and
 build bridges between disciplines. For me, science is only a piece of the
@@ -42,4 +43,3 @@ I'd love to connect
 if you're working on something new!
 
 ![Self Portrait]({{site.baseurl}}/assets/images/joseph-viviano-about.png){: width="666" }
-
