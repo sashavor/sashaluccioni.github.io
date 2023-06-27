@@ -1,12 +1,8 @@
 publications:
   name: publications
-  description: Papers I Authored.
+  description: Papers I worked on.
   cover: False
-thoughts:
-  name: thoughts
-  description: False
-  cover: False
-photography:
-  name: photography
-  description: Photos I've Taken.
+projects:
+  name: projects
+  description: Projects that excite me
   cover: False
