@@ -7,39 +7,16 @@ logo: /assets/images/ghost.png
 class: page-template
 subclass: 'post page'
 ---
-I get excited about the intersection of science and real world problems.
+Hi! I'm Sasha.
 
-I'm a multidisciplinary researcher, having worked in basic neuroscience at
-[York University](https://mri.info.yorku.ca/),
-psychiatry at [CAMH](https://www.camh.ca/en/science-and-research), radiology
-with [Imagia](https://imagia.com/),
-finance with the [CDPQ](https://www.cdpq.com/en),
-applied machine learning research with [Mila](https://mila.quebec/en/), user
-engagement with
-[Google](https://techcrunch.com/2012/05/31/google-calls-its-smart-ad-relevance-system-smart-ass-yes-seriously/),
-and RNA biology with [Deep Genomics](https://www.deepgenomics.com/).
+I'm a researcher in ethical Artificial intelligence (AI), working at [HuggingFace](huggingface.co/) to pave the way towards a better understanding of the societal and environmental impacts of AI technologies.
 
-As I learn more about science, find myself compelled to explore new fields and
-build bridges between disciplines. For me, science is only a piece of the
-puzzle, and I'm facinated by all of the steps required to bring a prototype
-into production. You can see the scope of my work on
-[Google Scholar](https://scholar.google.com/citations?user=Jd7wEJ8AAAAJ&hl=en)
-or [Linkedin](https://www.linkedin.com/in/josephdviviano/),
-or check out my
-[resume](https://github.com/josephdviviano/resume/raw/master/jdv-resume.pdf).
+I am also a Board Member of [Women in Machine Learning (WiML)](wimlworkshop.org/), and a founding member of [Climate Change AI (CCAI)](climatechange.ai/), a global initiative that aims to catalyze impactful work and build a community at the intersection of climate change and machine learning.
 
-Long term, I'm most interested in use of AI to power new biomedical
-breakthroughs, and to discover new technologies to fight climate change. But I
-inevitably find myself working on other projects that interest me along the way.
+I was previously a postdoc at [Mila](https://mila.quebec/en/), working with [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio) on AI and climate change, and an advisor to the [United Nations Global Pulse](https://www.unglobalpulse.org/).
 
-I'm also an amateur photographer and musician, and I've peppered some of my
-work throughout the site. You can check out my
-[Instagram](https://www.instagram.com/josephdviviano/) and
-[Soundcloud](https://soundcloud.com/jdvi) for more.
+In a past life, I worked in Applied AI at [Morgan Stanley](https://www.morganstanley.com/) and [Nuance Communications](https://www.nuance.com/index.html).
 
-I'd love to connect
-([Twitter](https://twitter.com/josephdviviano)/
-[Facebook](https://www.facebook.com/josephdviviano))
-if you're working on something new!
+You can contact me at: sasha.luccioni(at)huggingface.co or follow me on ([Twitter](https://twitter.com/SashaMTL).
 
-![Self Portrait]({{site.baseurl}}/assets/images/joseph-viviano-about.png){: width="666" }
+![Self Portrait]({{site.baseurl}}/assets/images/sasha.png){: width="666" }
