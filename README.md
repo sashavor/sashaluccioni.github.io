@@ -1,4 +1,4 @@
-viviano.ca
+sashaluccioni.com
 ----------
 [![Build and deploy to GitHub Pages](https://github.com/josephdviviano/josephdviviano.github.io/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/josephdviviano/josephdviviano.github.io/actions/workflows/jekyll_build.yml)
 [![Ruby](https://img.shields.io/badge/ruby-2.5.1-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
