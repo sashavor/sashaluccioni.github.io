@@ -10,34 +10,24 @@ url: "/"
 baseurl: ""
 
 # Website info
-title: Joseph D Viviano
-description: ML Research Scientist
+title: Dr. Sasha Luccioni
+description: AI Researcher + Climate Lead
 cover: assets/images/blog-cover-desat.jpg
 logo: assets/images/blog-icon.png  # Segoe UI Normal 72 pt
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-CNAME: www.viviano.ca
-
+CNAME: www.sashaluccioni.com
 # Social info
 navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 
-facebook: josephdviviano
-github: josephdviviano
-instagram: josephdviviano
-linkedin: josephdviviano
-scholar: Jd7wEJ8AAAAJ  # Google scholar ID.
-soundcloud: jdvi
-twitter: josephdviviano
+github: sashavor
+linkedin: alexandraluccioniphd
+scholar: nP8cwkIAAAAJ  # Google scholar ID.
+twitter: SashaMTL
 
-# Disqus
-disqus: False
-disqus_shortname: josephdviviano # replace with your disqus username
-
-# Google Analytics
-google_analytics: UA-184137310-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -74,12 +64,12 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: josephdviviano
-repo: josephdviviano.github.io
+username: sashavor
+repo: sashaluccioni.github.io
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://www.viviano.ca
+production_url:  https://www.sashaluccioni.com
 source_url:  https://github.com/jekyller/jasper2/
 
 exclude:
